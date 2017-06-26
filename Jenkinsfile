@@ -1,4 +1,3 @@
-#sdwqbuild
 pipeline{
 	agent any
 	stages {
