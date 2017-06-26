@@ -1,3 +1,4 @@
+#build
 pipeline{
 	agent any
 	stages {
