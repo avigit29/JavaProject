@@ -1,4 +1,3 @@
-#wqbuild
 pipeline{
 	agent any
 	stages {
